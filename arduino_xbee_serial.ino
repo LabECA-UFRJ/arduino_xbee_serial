@@ -7,7 +7,7 @@
 
 #include <avr/pgmspace.h>
 
-const int c_BaudRate = 57600;
+const int c_BaudRate = 9600;
 
 OrangutanLCD lcd;
 OrangutanMotors motors;
