@@ -3,7 +3,7 @@
 #include <OrangutanMotors.h>
 #include <OrangutanLCD.h>
 
-#include <Xbee.h>
+#include <XBee.h>
 
 #include <avr/pgmspace.h>
 
